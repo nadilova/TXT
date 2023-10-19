@@ -1,0 +1,10 @@
+Skills:
+terminal
+github
+postman
+python
+js
+charles
+sql
+theory
+

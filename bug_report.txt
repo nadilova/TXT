@@ -1,7 +1,7 @@
-	bug Report
-  Report number: 0000000
-	Title: Basket functionality
-	Description: No goods added to the basket
-	Environment set:
-	os: xxx
-	browser: xxx
+bug Report
+Report number: 0000000
+Title: Basket functionality
+Description: No goods added to the basket
+Environment set:
+os: xxx
+browser: xxx

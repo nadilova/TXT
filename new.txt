@@ -1,0 +1,4 @@
+Last name: Adilova
+First name: Nurgul
+Number of pets: 0
+Wished salary: 3500
